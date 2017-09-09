@@ -9,11 +9,5 @@ import {Component} from '@angular/core';
 export class LeftComponent
 {
 
-	title:string = "News";
-	items:array<string> = ["Welcome","Hi","Good Bye"];
-	constructor()
-	{
-	this.title = 'Noticias';
-	}
 	
-}
+	}
