@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'my-app',
   template: `
   <app-header></app-header>
-  	<div class = "row">
+  	<div class="row">
   		<app-left></app-left>
   		<app-right></app-right>
   	</div>
