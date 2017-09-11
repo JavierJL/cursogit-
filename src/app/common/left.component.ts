@@ -9,5 +9,8 @@ import {Component} from '@angular/core';
 export class LeftComponent
 {
 
-	title = "Agular/GitHub";
+	title = "Angular/Git/GitHub";
+	article_angular =  "What´s Angular?";
+	article_git = "What´s Git?";
+	article_github = "What´s GitHub?";
 	}
